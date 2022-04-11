@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "target": "esnext",
+    "lib": [
+      "ES2020"
+    ],
+    "strict": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "skipLibCheck": true,
+    "declaration": true,
+    "declarationMap": true,
+    "pretty": true,
+    "newLine": "lf",
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true
+  }
+}

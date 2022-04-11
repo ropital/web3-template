@@ -1,0 +1,5 @@
+#Hardhat files
+cache
+artifacts/build-info
+artifacts/hardhat
+artifacts/contracts/**/*.dbg.json
